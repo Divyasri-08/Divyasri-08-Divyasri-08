@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Divya Sri Munnangi</h1>
 
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Tableau | Data Science</h3>
