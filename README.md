@@ -99,11 +99,11 @@ Built a document question-answering system using retrieval augmented generation 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyasri-08&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyasri-08&show_icons=true&theme=tokyonight&hide_border=true" alt="Divya's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyasri-08&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyasri-08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
