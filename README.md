@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Divyasri-08&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
 <h1 align="center">Hi 👋, I'm Divya Sri Munnangi</h1>
 
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Tableau | Data Science</h3>
